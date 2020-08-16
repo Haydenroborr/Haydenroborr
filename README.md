@@ -1,28 +1,32 @@
 ### Hi, I'm Hayden Orr.
 
-## I'm self-taught programmer, currently working through OSSU. 
+## I'm self-taught programmer.
+- 🔭 I’m currently working on developing my portfolio, and studying for A+ certification. 
+- 🌱 I’m currently learning WebDev through TheOdinProject and practicing my Python through Py4e.
+- 🥅 2020 Goals: Develop four websites, get A+ certification.
 
 ### Connect with me:
-<!-- [<img align="left" alt="Sabesan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Sabesan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 
+[<img align="left" alt="Hayden" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Hayden | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Hayden | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Hayden | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+</br>
 
 ---
-(https://github-readme-stats.vercel.app/api?username=Haydenroborr)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Haydenroborr&show_icons=true&theme=solarized-dark)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haydenroborr)](https://github.com/anuraghazra/github-readme-stats)-->
+
 ---
 
-<!--[website]: 
-
+[website]: https://github.com/Haydenroborr/
 [twitter]: https://twitter.com/HaydenRobOrr1
-
-<!--[facebook]: https://www.facebook.com/sathananthan.sabesan
-[instagram]: https://www.instagram.com/s_sabesan
-
+[instagram]: https://www.instagram.com/modern_pedrolino/
 [linkedin]: https://www.linkedin.com/in/haydenroborr/
 
-<!--[<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <!--
 **Haydenroborr/Haydenroborr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,4 +41,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🥅 2020 Goals:
+
 -->
