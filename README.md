@@ -26,6 +26,9 @@
 [instagram]: https://www.instagram.com/modern_pedrolino/
 [linkedin]: https://www.linkedin.com/in/haydenroborr/
 
+---
+
+![Visitor Count](https://profile-counter.glitch.me/Haydenroborr/count.svg)
 
 <!--
 **Haydenroborr/Haydenroborr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
