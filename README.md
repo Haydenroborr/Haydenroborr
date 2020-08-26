@@ -26,8 +26,6 @@
 [instagram]: https://www.instagram.com/modern_pedrolino/
 [linkedin]: https://www.linkedin.com/in/haydenroborr/
 
----
-
 ![Visitor Count](https://profile-counter.glitch.me/Haydenroborr/count.svg)
 
 <!--
