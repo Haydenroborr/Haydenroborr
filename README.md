@@ -2,7 +2,8 @@
 
 ## I'm self-taught programmer.
 - 🔭 I’m currently working on developing my portfolio, and studying for A+ certification. 
-- 🌱 I’m currently learning WebDev through TheOdinProject and practicing my Python through Py4e.
+- 🌱 I’m currently learning WebDev through <a href="https://www.theodinproject.com/courses/web-development-101"> TheOdinProject's Web Development 101 </a>![46%](https://progress-bar.dev/46) and practicing my Python through <a href="https://www.py4e.com/"> Python for Everybody </a>.![33%](https://progress-bar.dev/33).
+
 - 🥅 2020 Goals: Develop four websites, get A+ certification.
 
 ### Connect with me:
